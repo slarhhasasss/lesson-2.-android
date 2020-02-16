@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Lesson2</string>
+    <string name="about_text">
+    У лукоморья дуб зелёный;\n
+    Златая цепь на дубе том:\n
+    И днём и ночью <b>кот учёный</b>\n
+    Всё ходит по цепи кругом;\n
+    Идёт <b>направо</b> - песнь заводит,\n
+    <b>Налево</b> - сказку говорит.</string>
+    <string name="about_tittle">O Программе</string>
+    <string name="title_activity_third">Thanks!</string>
+    <string name="exit_button">Выйти</string>
+    <string name="ty_pidor_text_view">Ты Пидор</string>
+    <string name="button_no_you">НЕТ ТЫ</string>
+    <string name="che_hotel_edit_text">Че хотел???</string>
+</resources>
